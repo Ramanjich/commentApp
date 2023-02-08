@@ -1,0 +1,99 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+.like-del-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 20px;
+}
+.comment-inform-con {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+
+.comment-item-container {
+  margin-left: 90px;
+  list-style-type: none;
+}
+
+.name-container {
+  margin-left: 10px;
+}
+
+.name-symbol {
+  margin-top: 10px;
+  border-radius: 20px;
+
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  font-family: Roboto;
+}
+
+.para-symbol {
+  margin-bottom: 8px;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.name-time {
+  display: flex;
+  flex-direction: row;
+}
+
+.username-style {
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.like-con {
+  display: flex;
+  flex-direction: row;
+}
+
+.like-btn {
+  background-color: transparent;
+  margin-right: 15px;
+  border: none;
+}
+
+.del-con {
+  margin-top: 20px;
+}
+
+.del-btn {
+  background-color: transparent;
+
+  border: none;
+}
+
+.like-para {
+  color: #0ea5e9;
+}
